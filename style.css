@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.u {
+    color:#fff;
+}
+
 a {
     all: unset;
     color: #fff;
